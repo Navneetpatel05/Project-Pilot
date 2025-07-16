@@ -18,3 +18,13 @@ Welcome to TeamSync, a powerful and scalable multi-tenancy project management sy
 - 🌱 Seeding for Test Data
 - 💾 Mongoose Transactions for Robust Data Integrity
 - 🌐 Built with MERN Stack (Node.js, MongoDB, React, TypeScript)
+
+  ## 🚀 Tools & Technologies
+  This project leverages the latest tools and frameworks for modern development:
+  - Node.js: Scalable backend architecture
+  - React.js: Dynamic frontend framework
+  - MongoDB & Mongoose: Flexible and scalable database solutions
+  - Google OAuth: Seamless Google Sign-In integration
+  - TypeScript: For a type-safe codebase
+  - TailwindCSS & Shadcn UI: Beautiful, responsive design
+  - Vite.js: Lightning-fast frontend development
