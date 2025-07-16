@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 Welcome to TeamSync, a powerful and scalable multi-tenancy project management system built with Node.js, MongoDB, and React. Designed for real-world B2B needs, this project delivers features like Google Sign-In, workspace management, project tracking, task collaboration, role-based permissions, and more. Perfect for developers aiming to create SaaS-based team collaboration platforms.
 
-## 🌟 Key Features
+### 🌟 Key Features
 - 🔐 Authentication (Google Sign-In, Email, Password)
 - 🏢 Create & Manage Multiple Workspaces
 - 📊 Projects & Epics Management
@@ -19,7 +19,7 @@ Welcome to TeamSync, a powerful and scalable multi-tenancy project management sy
 - 💾 Mongoose Transactions for Robust Data Integrity
 - 🌐 Built with MERN Stack (Node.js, MongoDB, React, TypeScript)
 
-  ## 🚀 Tools & Technologies
+  ### 🚀 Tools & Technologies
   This project leverages the latest tools and frameworks for modern development:
   - Node.js: Scalable backend architecture
   - React.js: Dynamic frontend framework
@@ -28,3 +28,7 @@ Welcome to TeamSync, a powerful and scalable multi-tenancy project management sy
   - TypeScript: For a type-safe codebase
   - TailwindCSS & Shadcn UI: Beautiful, responsive design
   - Vite.js: Lightning-fast frontend development
+
+  ## 🔄 Getting Started
+  1. Set Up Environment Variables
+Create a .env file in the root of your project and configure these variables:
